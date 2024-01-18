@@ -1,10 +1,4 @@
----
-title: amxchang
-date: '2020-17-05'
-spoiler: Short and Sweet Realtime Readme Template
-categories: ["short-and-sweet", "all-profile"]
-githubUsername: 'amxchang'
----
+
 
 ![Banner](https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png)
 
