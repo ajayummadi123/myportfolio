@@ -1,6 +1,5 @@
 
 
-![Banner](https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png)
 
 I'm a  MCA student who lives in the Nellore. I'm learning how to code. I love to design webpages and to write Articles .I am good at python and web technologies(React js ,jQuery)and also familiar with sql  .  It's fun to code something that anyone on the web can easily see. I love it when I can finally solve a difficult problem.
 
